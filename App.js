@@ -106,6 +106,7 @@ class ReactCalculator extends Component {
 
       case 'Clear':
         this.setState({
+          
           inputValue: 0,
         })
     }
